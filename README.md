@@ -46,9 +46,8 @@
 
 <br clear="both">
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/willpch/count.svg" /></p>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/75FEaRjZTKLhTrFGsfMUXR?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
 ![snake gif](https://github.com/willpch/willpch/blob/output/github-contribution-grid-snake.svg)
 
+![willpch Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12124143283)
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/willpch/count.svg" /></p>
