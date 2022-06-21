@@ -48,6 +48,6 @@
 
 ![snake gif](https://github.com/willpch/willpch/blob/output/github-contribution-grid-snake.svg)
 
-![William Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12124143283&unique={true|1|on|yes})
+![William Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12124143283&unique={true})
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/willpch/count.svg" /></p>
