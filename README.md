@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/willpch/willpch/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/willpch/willpch/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
