@@ -46,7 +46,10 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/willpch/willpch/blob/output/snake.svg" alt="Snake animation" />
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/willpch/count.svg" /></p>
+
+
+![snake gif](https://github.com/willpch/willpch/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
