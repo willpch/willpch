@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋! Meu nome é William Pacheco, sou estudante de desenvolvimento back-end web.</h2>
+<h2 align="left">Olá! 👋! Meu nome é William Pacheco, sou estudante de desenvolvimento back-end Desktop e Web.</h2>
 
 ###
 
