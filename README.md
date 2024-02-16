@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋 Meu nome é William Pacheco, sou dev jr. back-end Desktop e Web @ FingerTechBR.</h2>
+<h2 align="left">Olá! 👋 Meu nome é William Pacheco, sou dev jr. back-end Desktop e Web @ OrthoDontic.</h2>
 
 ###
 
