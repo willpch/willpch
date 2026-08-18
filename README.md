@@ -1,48 +1,135 @@
-<h2 align="left">Olá! 👋 Meu nome é William Pacheco, sou dev back-end Desktop e Web</h2>
+# 👋 Olá! Eu sou William Pacheco
 
-###
+### Desenvolvedor Back-end • Web & Desktop
+
+Desenvolvedor focado em **PHP, Laravel e C#**, criando aplicações web, APIs REST e sistemas desktop para resolver problemas reais de negócio.
+
+Tenho experiência trabalhando com **sistemas de gestão, PDV, ordens de serviço, integrações, bancos de dados e automações**, sempre buscando código organizado, soluções simples e interfaces funcionais.
+
+---
+
+## 🚀 Tecnologias
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=pt-br&hide_border=false&username=willpch" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpch&layout=compact&locale=pt-br&theme=transparent" height="150" alt="languages graph"  />
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,cs,dotnet,js,nodejs,mysql,html,css,vue,docker,git,linux)](https://skillicons.dev)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  />
+## 💻 O que eu faço
 
-###
+```text
+🌐 Desenvolvimento Web
+   ├── PHP & Laravel
+   ├── APIs REST
+   ├── JavaScript
+   └── Vue.js
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="nodejs logo"  />
+🖥️ Desenvolvimento Desktop
+   ├── C#
+   ├── .NET / Windows Forms
+   └── Aplicações offline
+
+🗄️ Banco de Dados
+   ├── MySQL
+   ├── SQL
+   └── Modelagem e consultas
+
+⚙️ Ferramentas & Infraestrutura
+   ├── Git
+   ├── Docker
+   ├── Linux
+   └── Composer / npm
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=willpch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&locale=pt-br" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpch&layout=compact&langs_count=8&hide_border=true&theme=transparent&locale=pt-br" />
+
 </div>
 
-###
+<div align="center">
 
-<div align="left">
-  <a href="https://www.instagram.com/will_pch/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/lpna_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/williampachecodev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<img src="https://streak-stats.demolab.com?user=willpch&theme=transparent&hide_border=true&locale=pt_BR" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🛠️ Principais áreas
 
-![snake gif](https://github.com/willpch/willpch/blob/output/github-contribution-grid-snake.svg)
+* 📦 Sistemas de gestão e PDV
+* 🧾 Emissão e integração de documentos fiscais
+* 🔌 APIs REST e integrações
+* 🚗 Sistemas para oficinas e serviços automotivos
+* 💰 Sistemas comerciais e vendas
+* 🖥️ Aplicações desktop para Windows
+* 🗃️ Modelagem e gerenciamento de bancos de dados
+* 🔐 Sistemas de autenticação e licenciamento
+* ☁️ Deploy, Docker e ambientes Linux
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=12124143283)
+---
 
-<p align="center">   <img align="center" src="https://profile-counter.glitch.me/willpch/count.svg" /></p>
+## 📌 Projetos
+
+### 🔹 GestOS
+
+Sistema de gestão de **ordens de serviço para empresas de serviços automotivos**, desenvolvido para funcionar de forma simples e eficiente no Windows.
+
+**Tecnologias:** C# • .NET • Windows Forms • SQLite
+
+---
+
+### 🔹 Sistemas Web & APIs
+
+Desenvolvimento de sistemas web completos utilizando **Laravel, PHP, JavaScript e MySQL**, incluindo painéis administrativos, APIs, integrações e sistemas comerciais.
+
+**Tecnologias:** PHP • Laravel • JavaScript • Vue.js • MySQL • Docker
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=willpch&theme=github-compact&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/williampachecodev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/will_pch/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.twitch.tv/lpna_">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Transformando ideias em sistemas funcionais.
+
+<img src="https://komarev.com/ghpvc/?username=willpch&style=for-the-badge&color=blueviolet&label=VISITAS+NO+PERFIL" />
+
+</div>
