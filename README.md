@@ -26,9 +26,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/user/LoLPlayerBR" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/will_pch/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -46,6 +43,6 @@
 
 ![snake gif](https://github.com/willpch/willpch/blob/output/github-contribution-grid-snake.svg)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12124143283&count=1)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=12124143283)
 
 <p align="center">   <img align="center" src="https://profile-counter.glitch.me/willpch/count.svg" /></p>
