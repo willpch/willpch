@@ -46,19 +46,11 @@ Tenho experiência trabalhando com **sistemas de gestão, PDV, ordens de serviç
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=willpch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&locale=pt-br" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpch&layout=compact&langs_count=8&hide_border=true&theme=transparent&locale=pt-br" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=willpch&theme=transparent&hide_border=true&locale=pt_BR" />
+![GitHub Contribution Graph](https://github.com/willpch/willpch/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
