@@ -46,15 +46,6 @@ Tenho experiência trabalhando com **sistemas de gestão, PDV, ordens de serviç
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github.com/willpch/willpch/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 🛠️ Principais áreas
 
